@@ -76,5 +76,5 @@ debian/files
 *.debhelper.log
 
 # Custom files
-Conclusions.txt
-LectureNotes.txt
+# Conclusions.txt
+# LectureNotes.txt
